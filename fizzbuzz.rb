@@ -1,4 +1,4 @@
-def fizzbuzz(number)
-  expect(fizz_3).to eq("Fizz")
+def fizz_3(number)
+  puts "Fizz"
 
  end
