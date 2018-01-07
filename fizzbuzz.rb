@@ -1,4 +1,4 @@
 def fizz_3(number)
-  puts "Fizz"
+  fizz_3 = fizzbuzz(3)
 
  end
