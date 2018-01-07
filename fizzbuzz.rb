@@ -4,7 +4,7 @@ def fizzbuzz(number)
   return 'Buzz' if is_divisible_by_five? number
 end
 def is_divisible_by_three?(number)
-  puts "Fizz"
+  number % 3 == 0
 end
 def is_divisible_by_five?(number)
   number % 5 == 0
